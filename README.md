@@ -1,21 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sachin Sharma A</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+# Hi there, I'm Sachin Sharma! 👋
 
-- 🌱 I’m currently learning **Frontend Technologies**
+I'm a passionate **Full Stack Developer** with a strong focus on frontend technologies and a knack for building responsive and interactive web applications. I love turning ideas into reality with code, and I'm always looking for opportunities to learn and grow.
+<hr>
 
-- 💬 Ask me about **Tech**
+<img align="right" src="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30" width="300" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-sharma-a-419b66259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-sharma-a-419b66259/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/e6abbwyson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/e6abbwyson/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🚀 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinsharma-2003&show_icons=true&locale=en&layout=compact" alt="sachinsharma-2003" /></p>
+- **Frontend Development:**
+  - HTML5, CSS3, JavaScript, Bootstrap5.
+  - Responsive design, animations, and web accessibility
+- **Programming:**
+  - Python, Java
+- **Tools:**
+  - Figma (UI/UX design)
+  - Arduino (Embedded systems)
+  <hr>
+  
+### 🌱 Currently Exploring
+- Modern JavaScript frameworks (e.g., React, shery.js)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinsharma-2003&show_icons=true&locale=en" alt="sachinsharma-2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsharma-2003&" alt="sachinsharma-2003" /></p>
+### 💻 Projects
+Check out some of my recent projects:
+- **Portfolio Website**: A personal portfolio to showcase my work and skills.
+- **E-learning Platform** (LearnX): A web app that provides online courses and quizzes.
+- **Interactive Chat App**: Built using WebSockets for real-time communication.
+
+### 🔗 Connect with Me
+- LinkedIn: <a href="https://www.linkedin.com/in/sachin-sharma-a-419b66259/">Sachin Sharma</a>
+- Email: sachinsanskar07@gmail.com
+
+Thanks for visiting my GitHub! Let's collaborate and build something amazing together.
