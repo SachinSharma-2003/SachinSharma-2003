@@ -33,7 +33,7 @@ Check out some of my recent projects:
 - **Interactive Chat App**: Built using WebSockets for real-time communication.
 
 ### 🔗 Connect with Me:
-- LinkedIn: <a href="https://www.linkedin.com/in/sachin-sharma-a-419b66259/">Sachin Sharma</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/sachin-sharma-a-419b66259/" target=_blank>Sachin Sharma</a>
 - Email: sachinsanskar07@gmail.com
 
 Thanks for visiting my GitHub! Let's collaborate and build something amazing together.
